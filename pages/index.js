@@ -892,7 +892,7 @@ export default function Example() {
                                       <span className="sr-only">Workflow</span>
                                       <img
                                         className="h-8 w-auto sm:h-10"
-                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/whatsapp.png"
+                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/phone.png"
                                         alt=""
                                       />
                                     </a>
@@ -907,7 +907,7 @@ export default function Example() {
                                       <span className="sr-only">Workflow</span>
                                       <img
                                         className="h-8 w-auto sm:h-10"
-                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/ebay.png"
+                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/email.png"
                                         alt=""
                                       />
                                     </a>
@@ -920,7 +920,7 @@ export default function Example() {
                                       <span className="sr-only">Workflow</span>
                                       <img
                                         className="h-8 w-auto sm:h-10"
-                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/ebay.png"
+                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/reddit.png"
                                         alt=""
                                       />
                                     </a>
@@ -933,7 +933,7 @@ export default function Example() {
                                       <span className="sr-only">Workflow</span>
                                       <img
                                         className="h-8 w-auto sm:h-10"
-                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/ebay.png"
+                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/telegram.png"
                                         alt=""
                                       />
                                     </a>
@@ -948,7 +948,7 @@ export default function Example() {
                                       <span className="sr-only">Workflow</span>
                                       <img
                                         className="h-8 w-auto sm:h-10"
-                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/ebay.png"
+                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/youtube.png"
                                         alt=""
                                       />
                                     </a>
@@ -961,7 +961,7 @@ export default function Example() {
                                       <span className="sr-only">Workflow</span>
                                       <img
                                         className="h-8 w-auto sm:h-10"
-                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/ebay.png"
+                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/pinterest.png"
                                         alt=""
                                       />
                                     </a>
@@ -972,11 +972,6 @@ export default function Example() {
                                   <dd className="col-span-1 flex justify-center py-8 px-8 ">
                                     <a href="https://www.ebay.com">
                                       <span className="sr-only">Workflow</span>
-                                      <img
-                                        className="h-8 w-auto sm:h-10"
-                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/ebay.png"
-                                        alt=""
-                                      />
                                     </a>
                                   </dd>
                                 </div>
