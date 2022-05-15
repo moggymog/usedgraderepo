@@ -489,12 +489,7 @@ const navigation3 = [
 
 const navigation = [
   { name: 'Dashboard', href: '/', icon: HomeIcon, current: true },
-  {
-    name: 'Available Products',
-    href: '/main',
-    icon: CalendarIcon,
-    current: false,
-  },
+
   { name: 'Contact Us', href: '/contact', icon: PhoneIcon, current: false },
 ];
 const navigation2 = [

@@ -30,7 +30,6 @@ import { MailIcon, MenuIcon, PhoneIcon, XIcon } from '@heroicons/react/outline';
 
 const navigation = [
   { name: 'Home', href: '/' },
-  { name: 'Available Inventory', href: '#' },
   { name: 'Contact', href: '/contact' },
 ];
 const offices = [
