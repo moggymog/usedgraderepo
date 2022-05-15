@@ -668,7 +668,7 @@ export default function Example() {
           <div className="bg-gray-900">
             <div className=" mx-auto h-10 px-4 flex items-center justify-between sm:px-6 lg:px-8">
               <p className="flex-1 text-center text-sm font-medium text-white lg:flex-none">
-                Email: sales@usedgrade.com | Phone#: +1 (253)-123-4567
+                Email: sales@usedgrade.com | Phone#: +1 (253)-400-1085
               </p>
             </div>
           </div>

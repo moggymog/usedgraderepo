@@ -410,7 +410,7 @@ export default function Example() {
                         className="flex-shrink-0 w-6 h-6 text-indigo-200"
                         aria-hidden="true"
                       />
-                      <span className="ml-3">+1 (253) 123-4567</span>
+                      <span className="ml-3">+1 (267) 400-1085</span>
                     </dd>
                     <dt>
                       <span className="sr-only">Email</span>
