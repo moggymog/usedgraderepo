@@ -630,11 +630,14 @@ export default function Example() {
           {/* Sidebar component, swap this element with another sidebar if you like */}
           <div className="flex flex-col flex-grow border-r border-gray-200 pt-5 bg-white overflow-y-auto">
             <div className="flex items-center flex-shrink-0 px-4">
-              <img
-                className="h-30 w-auto"
-                src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/usedgrade2.jpeg"
-                alt="Workflow"
-              />
+              <a href="/">
+                <span className="sr-only">Workflow</span>
+                <img
+                  className="h-30 w-auto"
+                  src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/usedgrade2.jpeg"
+                  alt="Workflow"
+                />
+              </a>
             </div>
             <div className="mt-5 flex-grow flex flex-col">
               <nav className="flex-1 px-2 pb-4 space-y-1">
