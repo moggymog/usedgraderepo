@@ -795,8 +795,8 @@ export default function Example() {
                   <main className="pb-24">
                     <div className="text-center py-16 px-4 sm:px-6 lg:px-8">
                       <h1 className="text-4xl font-extrabold tracking-tight text-gray-900">
-                        We're here to service your demands and accelerate
-                        business flow.
+                        We're here to service your demand and accelerate your
+                        product flow.
                       </h1>
                       <p className="mt-4 max-w-xl mx-auto text-base text-gray-500"></p>
                     </div>
