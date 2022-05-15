@@ -838,7 +838,7 @@ export default function Example() {
                                       <span className="sr-only">Workflow</span>
                                       <img
                                         className="h-8 w-auto sm:h-10"
-                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/ebay.png"
+                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/facebook.png"
                                         alt=""
                                       />
                                     </a>
@@ -851,7 +851,7 @@ export default function Example() {
                                       <span className="sr-only">Workflow</span>
                                       <img
                                         className="h-8 w-auto sm:h-10"
-                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/ebay.png"
+                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/twitter.png"
                                         alt=""
                                       />
                                     </a>
@@ -866,7 +866,7 @@ export default function Example() {
                                       <span className="sr-only">Workflow</span>
                                       <img
                                         className="h-8 w-auto sm:h-10"
-                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/ebay.png"
+                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/instagram.png"
                                         alt=""
                                       />
                                     </a>
@@ -879,7 +879,7 @@ export default function Example() {
                                       <span className="sr-only">Workflow</span>
                                       <img
                                         className="h-8 w-auto sm:h-10"
-                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/ebay.png"
+                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/linkedin.png"
                                         alt=""
                                       />
                                     </a>
@@ -892,7 +892,7 @@ export default function Example() {
                                       <span className="sr-only">Workflow</span>
                                       <img
                                         className="h-8 w-auto sm:h-10"
-                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/ebay.png"
+                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/whatsapp.png"
                                         alt=""
                                       />
                                     </a>
