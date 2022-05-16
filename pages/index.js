@@ -913,7 +913,7 @@ export default function Example() {
                                   <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"></dt>
                                   <dd className="col-span-1 flex justify-center py-8 px-8 ">
                                     <a
-                                      href="127"
+                                      href="12674001085"
                                       target="_blank"
                                       rel="noreferrer noopener"
                                     >
@@ -932,7 +932,7 @@ export default function Example() {
                                   <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"></dt>
                                   <dd className="col-span-1 flex justify-center py-8 px-8 ">
                                     <a
-                                      href="https://www.ebay.com"
+                                      href="mailto:sales@usedgrade.com"
                                       target="_blank"
                                       rel="noreferrer noopener"
                                     >
@@ -949,7 +949,7 @@ export default function Example() {
                                   <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"></dt>
                                   <dd className="col-span-1 flex justify-center py-8 px-8 ">
                                     <a
-                                      href="https://www.ebay.com"
+                                      href="https://www.reddit.com/usedgrade"
                                       target="_blank"
                                       rel="noreferrer noopener"
                                     >
@@ -966,7 +966,7 @@ export default function Example() {
                                   <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"></dt>
                                   <dd className="col-span-1 flex justify-center py-8 px-8 ">
                                     <a
-                                      href="https://www.ebay.com"
+                                      href="https://www.telegram.com/usedgrade"
                                       target="_blank"
                                       rel="noreferrer noopener"
                                     >
@@ -985,7 +985,7 @@ export default function Example() {
                                   <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"></dt>
                                   <dd className="col-span-1 flex justify-center py-8 px-8 ">
                                     <a
-                                      href="https://www.ebay.com"
+                                      href="https://www.youtube.com/usedgrade"
                                       target="_blank"
                                       rel="noreferrer noopener"
                                     >
@@ -1002,7 +1002,7 @@ export default function Example() {
                                   <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"></dt>
                                   <dd className="col-span-1 flex justify-center py-8 px-8 ">
                                     <a
-                                      href="https://www.ebay.com"
+                                      href="https://www.pinterest.com/usedgrade"
                                       target="_blank"
                                       rel="noreferrer noopener"
                                     >
