@@ -816,7 +816,7 @@ export default function Example() {
                                 <div className="flex flex-col border-b border-gray-100 p-6 text-center sm:border-0 sm:border-r">
                                   <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"></dt>
                                   <dd className="col-span-1 flex justify-center py-8 px-8 ">
-                                    <a href="https://www.ebay.com">
+                                    <a href="https://www.ebay.com/str/upgradepro">
                                       <span className="sr-only">Workflow</span>
                                       <img
                                         className="h-8 w-auto sm:h-10"
@@ -965,8 +965,13 @@ export default function Example() {
                                 <div className="flex flex-col border-t border-gray-100 p-6 text-center sm:border-0 sm:border-l">
                                   <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"></dt>
                                   <dd className="col-span-1 flex justify-center py-8 px-8 ">
-                                    <a href="https://www.ebay.com">
+                                    <a href="https://wa.me/message/U4D4LJUCSQ3AC1">
                                       <span className="sr-only">Workflow</span>
+                                      <img
+                                        className="h-8 w-auto sm:h-10"
+                                        src="https://gitlab.com/moggymog/4way/-/raw/master/public/assets/whatsapp.png"
+                                        alt=""
+                                      />
                                     </a>
                                   </dd>
                                 </div>
