@@ -17,6 +17,7 @@
 import { Fragment, useState } from 'react';
 import { Dialog, Disclosure, Menu, Tab, Transition } from '@headlessui/react';
 import { FilterIcon, StarIcon } from '@heroicons/react/solid';
+import Script from 'next/dist/client/script';
 
 import {
   BellIcon,
