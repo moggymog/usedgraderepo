@@ -513,6 +513,17 @@ export default function Example() {
 
   return (
     <>
+      <Script
+        strategy="lazyOnload"
+        src={`https://www.googletagmanager.com/gtag/js?id=G-X2HB7B4JHT`}
+      />
+      <Script strategy="lazyOnload">
+        {`window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-X2HB7B4JHT');`}
+      </Script>
       {/*
         This example requires updating your template:
 
