@@ -514,6 +514,10 @@ export default function Example() {
 
   return (
     <>
+      <meta
+        name="facebook-domain-verification"
+        content="eveuxypjl1h26al88rva9b2nc0zh8p"
+      />
       <Script
         strategy="lazyOnload"
         src={`https://www.googletagmanager.com/gtag/js?id=G-X2HB7B4JHT`}
@@ -525,6 +529,7 @@ export default function Example() {
         
           gtag('config', 'G-X2HB7B4JHT');`}
       </Script>
+
       {/*
         This example requires updating your template:
 
