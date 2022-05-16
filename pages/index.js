@@ -793,6 +793,15 @@ export default function Example() {
                         We're here to service your demand and accelerate your
                         product flow.
                       </h1>
+                      <p className="mt-3 text-xl text-gray-500 sm:mt-4">
+                        We have been in the second hand electronics market in
+                        USA since 2013, during this time we have gained a lot of
+                        inside in to the market and partners who constantly work
+                        with us. Wether you want to shop with us today or become
+                        our long term business partner, we are here for you.
+                        UsedGrade will provide you with proper grading on used
+                        electronics so you can easily make a choice.
+                      </p>
                       <p className="mt-4 max-w-xl mx-auto text-base text-gray-500"></p>
                     </div>
 
