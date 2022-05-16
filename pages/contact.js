@@ -489,7 +489,7 @@ export default function Example() {
                     Send us a message
                   </h3>
                   <form
-                    name="emailform"
+                    name="contactform"
                     method="POST"
                     data-netlify="true"
                     onSubmit="submit"
