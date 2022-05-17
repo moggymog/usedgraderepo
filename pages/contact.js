@@ -13,7 +13,7 @@
       extend: {
         colors: {
           'warm-gray': colors.warmGray,
-          indigo: colors.indigo,
+          blue: colors.blue,
         },
       },
     },
@@ -149,7 +149,7 @@ export default function Example() {
                   />
                 </a>
                 <div className="-mr-2 flex items-center lg:hidden">
-                  <Popover.Button className="bg-warm-gray-50 rounded-md p-2 inline-flex items-center justify-center text-warm-gray-400 hover:bg-warm-gray-100 focus:outline-none focus:ring-2 focus-ring-inset focus:ring-indigo-500">
+                  <Popover.Button className="bg-warm-gray-50 rounded-md p-2 inline-flex items-center justify-center text-warm-gray-400 hover:bg-warm-gray-100 focus:outline-none focus:ring-2 focus-ring-inset focus:ring-blue-500">
                     <span className="sr-only">Open main menu</span>
                     <MenuIcon className="h-6 w-6" aria-hidden="true" />
                   </Popover.Button>
@@ -193,7 +193,7 @@ export default function Example() {
                   />
                 </div>
                 <div className="-mr-2">
-                  <Popover.Button className="bg-white rounded-md p-2 inline-flex items-center justify-center text-warm-gray-400 hover:bg-warm-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
+                  <Popover.Button className="bg-white rounded-md p-2 inline-flex items-center justify-center text-warm-gray-400 hover:bg-warm-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500">
                     <span className="sr-only">Close menu</span>
                     <XIcon className="h-6 w-6" aria-hidden="true" />
                   </Popover.Button>
@@ -214,7 +214,7 @@ export default function Example() {
                 <div className="mt-6 px-5">
                   <a
                     href="#"
-                    className="block text-center w-full py-2 px-4 border border-transparent rounded-md shadow bg-indigo-500 text-white font-medium hover:bg-indigo-600"
+                    className="block text-center w-full py-2 px-4 border border-transparent rounded-md shadow bg-blue-500 text-white font-medium hover:bg-blue-600"
                   >
                     Login
                   </a>
@@ -294,7 +294,7 @@ export default function Example() {
 
               <div className="grid grid-cols-1 lg:grid-cols-3">
                 {/* Contact information */}
-                <div className="relative overflow-hidden py-10 px-6 bg-gradient-to-b from-indigo-500 to-indigo-600 sm:px-10 xl:p-12">
+                <div className="relative overflow-hidden py-10 px-6 bg-gradient-to-b from-blue-500 to-blue-600 sm:px-10 xl:p-12">
                   {/* Decorative angle backgrounds */}
                   <div
                     className="absolute inset-0 pointer-events-none sm:hidden"
@@ -398,16 +398,16 @@ export default function Example() {
                   <h3 className="text-lg font-medium text-white">
                     Contact information
                   </h3>
-                  <p className="mt-6 text-base text-indigo-50 max-w-3xl">
+                  <p className="mt-6 text-base text-blue-50 max-w-3xl">
                     Hours: M-F 9am-5pm
                   </p>
                   <dl className="mt-8 space-y-6">
                     <dt>
                       <span className="sr-only">Phone number</span>
                     </dt>
-                    <dd className="flex text-base text-indigo-50">
+                    <dd className="flex text-base text-blue-50">
                       <PhoneIcon
-                        className="flex-shrink-0 w-6 h-6 text-indigo-200"
+                        className="flex-shrink-0 w-6 h-6 text-blue-200"
                         aria-hidden="true"
                       />
                       <span className="ml-3">+1 (267) 400-1085</span>
@@ -415,9 +415,9 @@ export default function Example() {
                     <dt>
                       <span className="sr-only">Email</span>
                     </dt>
-                    <dd className="flex text-base text-indigo-50">
+                    <dd className="flex text-base text-blue-50">
                       <MailIcon
-                        className="flex-shrink-0 w-6 h-6 text-indigo-200"
+                        className="flex-shrink-0 w-6 h-6 text-blue-200"
                         aria-hidden="true"
                       />
                       <span className="ml-3">contact@usedgrade.com</span>
@@ -425,10 +425,7 @@ export default function Example() {
                   </dl>
                   <ul role="list" className="mt-8 flex space-x-12">
                     <li>
-                      <a
-                        className="text-indigo-200 hover:text-indigo-100"
-                        href="#"
-                      >
+                      <a className="text-blue-200 hover:text-blue-100" href="#">
                         <span className="sr-only">Facebook</span>
                         <svg
                           className="w-7 h-7"
@@ -445,10 +442,7 @@ export default function Example() {
                       </a>
                     </li>
                     <li>
-                      <a
-                        className="text-indigo-200 hover:text-indigo-100"
-                        href="#"
-                      >
+                      <a className="text-blue-200 hover:text-blue-100" href="#">
                         <span className="sr-only">GitHub</span>
                         <svg
                           className="w-7 h-7"
@@ -465,10 +459,7 @@ export default function Example() {
                       </a>
                     </li>
                     <li>
-                      <a
-                        className="text-indigo-200 hover:text-indigo-100"
-                        href="#"
-                      >
+                      <a className="text-blue-200 hover:text-blue-100" href="#">
                         <span className="sr-only">Twitter</span>
                         <svg
                           className="w-7 h-7"
@@ -510,7 +501,7 @@ export default function Example() {
                           name="first-name"
                           id="first-name"
                           autoComplete="given-name"
-                          className="py-3 px-4 block w-full shadow-sm text-warm-gray-900 focus:ring-indigo-500 focus:border-indigo-500 border-warm-gray-300 rounded-md"
+                          className="py-3 px-4 block w-full shadow-sm text-warm-gray-900 focus:ring-blue-500 focus:border-blue-500 border-warm-gray-300 rounded-md"
                         />
                       </div>
                     </div>
@@ -527,7 +518,7 @@ export default function Example() {
                           name="last-name"
                           id="last-name"
                           autoComplete="family-name"
-                          className="py-3 px-4 block w-full shadow-sm text-warm-gray-900 focus:ring-indigo-500 focus:border-indigo-500 border-warm-gray-300 rounded-md"
+                          className="py-3 px-4 block w-full shadow-sm text-warm-gray-900 focus:ring-blue-500 focus:border-blue-500 border-warm-gray-300 rounded-md"
                         />
                       </div>
                     </div>
@@ -544,7 +535,7 @@ export default function Example() {
                           name="email"
                           type="email"
                           autoComplete="email"
-                          className="py-3 px-4 block w-full shadow-sm text-warm-gray-900 focus:ring-indigo-500 focus:border-indigo-500 border-warm-gray-300 rounded-md"
+                          className="py-3 px-4 block w-full shadow-sm text-warm-gray-900 focus:ring-blue-500 focus:border-blue-500 border-warm-gray-300 rounded-md"
                         />
                       </div>
                     </div>
@@ -569,7 +560,7 @@ export default function Example() {
                           name="phone"
                           id="phone"
                           autoComplete="tel"
-                          className="py-3 px-4 block w-full shadow-sm text-warm-gray-900 focus:ring-indigo-500 focus:border-indigo-500 border-warm-gray-300 rounded-md"
+                          className="py-3 px-4 block w-full shadow-sm text-warm-gray-900 focus:ring-blue-500 focus:border-blue-500 border-warm-gray-300 rounded-md"
                           aria-describedby="phone-optional"
                         />
                       </div>
@@ -586,7 +577,7 @@ export default function Example() {
                           type="text"
                           name="subject"
                           id="subject"
-                          className="py-3 px-4 block w-full shadow-sm text-warm-gray-900 focus:ring-indigo-500 focus:border-indigo-500 border-warm-gray-300 rounded-md"
+                          className="py-3 px-4 block w-full shadow-sm text-warm-gray-900 focus:ring-blue-500 focus:border-blue-500 border-warm-gray-300 rounded-md"
                         />
                       </div>
                     </div>
@@ -610,7 +601,7 @@ export default function Example() {
                           id="message"
                           name="message"
                           rows={4}
-                          className="py-3 px-4 block w-full shadow-sm text-warm-gray-900 focus:ring-indigo-500 focus:border-indigo-500 border border-warm-gray-300 rounded-md"
+                          className="py-3 px-4 block w-full shadow-sm text-warm-gray-900 focus:ring-blue-500 focus:border-blue-500 border border-warm-gray-300 rounded-md"
                           aria-describedby="message-max"
                           defaultValue={''}
                         />
@@ -619,7 +610,7 @@ export default function Example() {
                     <div className="sm:col-span-2 sm:flex sm:justify-end">
                       <button
                         type="submit"
-                        className="mt-2 w-full inline-flex items-center justify-center px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-indigo-500 hover:bg-indigo-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 sm:w-auto"
+                        className="mt-2 w-full inline-flex items-center justify-center px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-blue-500 hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:w-auto"
                       >
                         Submit
                       </button>
