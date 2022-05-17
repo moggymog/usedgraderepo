@@ -775,7 +775,7 @@ export default function Example() {
                       <div className="rounded-md shadow">
                         <a
                           href="/"
-                          className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 md:py-4 md:text-lg md:px-10"
+                          className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-usedgrade hover:bg-blue-700 md:py-4 md:text-lg md:px-10"
                         >
                           Catalog (coming soon!)
                         </a>
@@ -783,7 +783,7 @@ export default function Example() {
                       <div className="mt-3 sm:mt-0 sm:ml-3">
                         <a
                           href="/contact"
-                          className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-blue-700 bg-blue-100 hover:bg-blue-200 md:py-4 md:text-lg md:px-10"
+                          className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-usedgrade bg-blue-100 hover:bg-blue-200 md:py-4 md:text-lg md:px-10"
                         >
                           Contact Us
                         </a>
@@ -1196,7 +1196,7 @@ export default function Example() {
                     <div className="sm:col-span-2 sm:flex sm:justify-end">
                       <button
                         type="submit"
-                        className="mt-2 w-full inline-flex items-center justify-center px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:w-auto"
+                        className="mt-2 w-full inline-flex items-center justify-center px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-usedgrade hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:w-auto"
                       >
                         Submit
                       </button>
