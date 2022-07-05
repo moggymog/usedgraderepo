@@ -687,7 +687,7 @@ export default function Example() {
           <div className="bg-gray-900">
             <div className=" mx-auto h-10 px-4 flex items-center justify-between sm:px-6 lg:px-8">
               <p className="flex-1 text-center text-sm font-medium text-white lg:flex-none">
-                Email: sales@usedgrade.com | Phone#: +1 (267)-400-1085
+                Email: sales@usedgrade.com | Phone#: +1 (253)-432-8990
               </p>
             </div>
           </div>
@@ -932,7 +932,7 @@ export default function Example() {
                                   <dt className="order-2 mt-2 text-lg leading-6 font-medium text-gray-500"></dt>
                                   <dd className="col-span-1 flex justify-center py-8 px-8 ">
                                     <a
-                                      href="tel:+12674001085"
+                                      href="tel:+12534328990"
                                       target="_blank"
                                       rel="noreferrer noopener"
                                     >
