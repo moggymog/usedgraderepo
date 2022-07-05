@@ -111,6 +111,7 @@ const filters = {
     { value: 'green', label: 'Green', checked: false },
     { value: 'purple', label: 'Purple', checked: false },
   ],
+
   size: [
     { value: 'xs', label: 'XS', checked: false },
     { value: 's', label: 'S', checked: true },
@@ -1061,7 +1062,7 @@ export default function Example() {
                 </div>
                 {/* /End replace */}
                 {/* Contact form */}
-                <div class="max-w-4xl mx-auto">
+                <div className="max-w-4xl mx-auto">
                   <h3 className="text-lg font-medium text-gray-900">
                     Send us a message
                   </h3>
