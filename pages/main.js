@@ -433,6 +433,7 @@ const navigation = [
   { name: 'Contact Us', href: '/contact', icon: PhoneIcon, current: false },
 ];
 
+
 const navigation2 = [
   { name: 'Solutions', href: '#' },
   { name: 'Pricing', href: '#' },
